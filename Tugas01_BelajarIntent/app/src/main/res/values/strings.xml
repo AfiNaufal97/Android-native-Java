@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BelajarIntent</string>
+    <string name="nama">Nama</string>
+    <string name="no_telepon">No. Telepon</string>
+    <string name="login">LOGIN</string>
+    <string name="passsword">Passsword</string>
+</resources>
